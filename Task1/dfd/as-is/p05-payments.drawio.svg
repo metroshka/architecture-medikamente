@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="838" viewBox="0 0 1500 838" role="img" aria-labelledby="title desc" version="1.1" content="&lt;mxfile host=&quot;app.diagrams.net&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;P05-payments-as-is&quot; name=&quot;P05 · Прием и учет платежей&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <title id="title">P05. Прием и учет платежей — диаграмма потоков данных As-Is</title>
+  <desc id="desc">Кассир принимает оплату пациента за медицинскую услугу. ККМ передает сведения о получении денег на сервер по TCP/IP через компоненту 1С, использующую OLE. Бухгалтер получает сведения о платеже из файловой базы 1С:Бухгалтерия предприятия. Кассир также отражает тот же платеж в Excel на общем диске. Состав полей и порядок сверки двух записей предстоит уточнить.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 11 10" refX="10" refY="5" markerWidth="11" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#375A70" />
+    </marker>
+    <marker id="arrow-assumed" viewBox="0 0 11 10" refX="10" refY="5" markerWidth="11" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#895B29" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1500" height="838" fill="#FFFFFF" />
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g id="lines">
+      <polyline points="214,263 375,263" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="605,263 780,263" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="1014,263 1181,263" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="490,305 490,533 780,533" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="1014,533 1181,533" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="1314.5,326 1314.5,403 1118,403" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+      <polyline points="885,403 710,403" stroke="#375A70" fill="none" stroke-width="2.3" stroke-linejoin="round" marker-end="url(#arrow)" />
+    </g>
+    <g id="shapes">
+      <rect x="52" y="155" width="1396" height="1" fill="#CEDADD" />
+      <rect x="52" y="222" width="162" height="82" rx="0" fill="#F4F6F8" stroke="#6A8090" stroke-width="2" />
+      <rect x="375" y="221" width="230" height="84" rx="12" fill="#ECF3FA" stroke="#507999" stroke-width="2" />
+      <rect x="780" y="221" width="234" height="84" rx="12" fill="#ECF3FA" stroke="#507999" stroke-width="2" />
+      <path d="M 1181 213 C 1181 195.66666666666666 1448 195.66666666666666 1448 213 L 1448 313 C 1448 330.3333333333333 1181 330.3333333333333 1181 313 Z" fill="#E7F4EE" stroke="#398277" stroke-width="2" />
+      <path d="M 1181 213 C 1181 230.29 1448 230.29 1448 213" fill="none" stroke="#398277" stroke-width="1.4" />
+      <rect x="530" y="361" width="180" height="84" rx="0" fill="#F4F6F8" stroke="#6A8090" stroke-width="2" />
+      <rect x="885" y="361" width="233" height="84" rx="12" fill="#ECF3FA" stroke="#507999" stroke-width="2" />
+      <rect x="780" y="491" width="234" height="84" rx="12" fill="#ECF3FA" stroke="#507999" stroke-width="2" />
+      <path d="M 1181 488 C 1181 470.6666666666667 1448 470.6666666666667 1448 488 L 1448 578 C 1448 595.3333333333334 1181 595.3333333333334 1181 578 Z" fill="#E7F4EE" stroke="#398277" stroke-width="2" />
+      <path d="M 1181 488 C 1181 505.29 1448 505.29 1448 488" fill="none" stroke="#398277" stroke-width="1.4" />
+      <rect x="52" y="615" width="1396" height="1" fill="#CEDADD" />
+      <rect x="52" y="672" width="1396" height="1" fill="#CEDADD" />
+    </g>
+    <g id="captions">
+      <text x="52" y="39.44" fill="#206962" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start">Медикаменте  /  Задание 1  /  DFD As-Is</text>
+      <text x="50" y="91.26" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" text-anchor="start">P05. Прием и учет платежей</text>
+      <text x="52" y="131.8" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" text-anchor="start">Пациент оплачивает услугу один раз. ККМ передает сведения в 1С, а кассир отдельно отражает тот же платеж в Excel.</text>
+      <text x="52" y="185.6" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Источник</text>
+      <text x="375" y="185.6" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Операции и исполнители</text>
+      <text x="1181" y="185.6" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Хранилища</text>
+      <text x="133.0" y="270.82" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="middle">Пациент</text>
+      <text x="490.0" y="254.6" fill="#416681" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">P05.1 · Кассир</text>
+      <text x="490.0" y="280.64" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">Принять оплату</text>
+      <text x="897.0" y="254.6" fill="#416681" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">P05.2 · ККМ</text>
+      <text x="897.0" y="280.64" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">Записать платеж</text>
+      <text x="1314.5" y="250.14" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">1С:Бухгалтерия</text>
+      <text x="1314.5" y="277.14" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">предприятия</text>
+      <text x="1314.5" y="299.1" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">Файловая база на сервере</text>
+      <text x="620.0" y="410.48" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Бухгалтер</text>
+      <text x="1001.5" y="395.1" fill="#416681" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">P05.4 · Бухгалтерия</text>
+      <text x="1001.5" y="420.3" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Просмотреть платеж</text>
+      <text x="897.0" y="526.1" fill="#416681" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">P05.3 · Кассир</text>
+      <text x="897.0" y="549.62" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Внести платеж в Excel</text>
+      <text x="1314.5" y="522.64" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">Таблица платежей</text>
+      <text x="1314.5" y="545.44" fill="#206962" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Excel</text>
+      <text x="1314.5" y="566.6" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" text-anchor="middle">Общий диск клиники</text>
+      <text x="294.5" y="252.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Данные об оплате</text>
+      <text x="692.5" y="252.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Данные платежа</text>
+      <text x="1097.5" y="252.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Факт оплаты</text>
+      <text x="635.0" y="522.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Данные той же оплаты</text>
+      <text x="1097.5" y="522.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Строка об оплате</text>
+      <text x="1216.5" y="392.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Запись о платеже</text>
+      <text x="797.5" y="392.4" fill="#375A70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" text-anchor="middle">Сведения об оплате</text>
+      <text x="1097.5" y="287" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle">TCP/IP → OLE</text>
+      <text x="52" y="649.28" fill="#206962" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="start">Как связаны ККМ и 1С</text>
+      <text x="295" y="649.28" fill="#415969" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">Контрольно-кассовая машина передает сведения серверу по TCP/IP. На стороне сервера компонента 1С использует технологию OLE.</text>
+      <text x="52" y="713.14" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="start">Конфиденциальные данные</text>
+      <text x="782" y="713.14" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="start">Риск двойного учета</text>
+      <text x="52" y="753.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">Факт и сумма оплаты относятся к конкретной операции.</text>
+      <text x="52" y="778.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">Если запись содержит Ф. И. О. или номер договора, по которому</text>
+      <text x="52" y="803.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">можно установить пациента, платеж раскрывает факт обращения в клинику.</text>
+      <text x="782" y="753.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">При ручном вводе в Excel возможны пропуск платежа или ошибка в сумме.</text>
+      <text x="782" y="778.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">Нужно уточнить, что кассир вводит в Excel и 1С, проводят ли сверку</text>
+      <text x="782" y="803.28" fill="#18354A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" text-anchor="start">и по каким данным находят один и тот же платеж.</text>
+    </g>
+  </g>
+</svg>

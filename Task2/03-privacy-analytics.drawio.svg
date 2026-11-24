@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="1145" viewBox="0 0 1720 1145" role="img" aria-labelledby="diagram-title description" content="&lt;mxfile host=&quot;app.diagrams.net&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;privacy-containers&quot; name=&quot;Конфиденциальность и аналитика&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <title id="diagram-title">Правила доступа и аналитический слой</title>
+  <desc id="description">Детализация платформы со схемы «Платформа клиники через год». Здесь показаны проверки доступа и путь выгрузки до получателя.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 8" refX="9" refY="4" markerWidth="9" markerHeight="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 0 L 10 4 L 0 8 z" fill="#456070" />
+    </marker>
+    <marker id="accent" viewBox="0 0 10 8" refX="9" refY="4" markerWidth="9" markerHeight="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 0 L 10 4 L 0 8 z" fill="#386F62" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="1720" height="1145" fill="#FFFFFF" />
+  <g id="frames" font-family="Arial, Helvetica, sans-serif">
+    <rect id="platform-boundary" x="28" y="299" width="1664" height="734" rx="12" fill="none" stroke="#90A5A7" stroke-width="1.35" stroke-dasharray="7 5" />
+    <rect id="analytics-boundary" x="474" y="367" width="1190" height="457" rx="12" fill="none" stroke="#90A5A7" stroke-width="1.35" stroke-dasharray="7 5" />
+    <rect id="footer-line" x="50" y="1051" width="1620" height="1" rx="0" fill="#CBDAD9" stroke="none" stroke-width="0" />
+  </g>
+  <g id="relationships" font-family="Arial, Helvetica, sans-serif">
+    <polyline points="642,267 642,447" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Передает выгрузки из выделенной папки</title>
+    </polyline>
+    <polyline points="357,502 500,502" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Отдает поля по шаблону</title>
+    </polyline>
+    <polyline points="788,502 936,502" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Загружает набор с метками</title>
+    </polyline>
+    <polyline points="1067,580 1067,664" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Выдает набор задаче расчета</title>
+    </polyline>
+    <polyline points="1215,725 1481,725 1481,580" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Публикует проверенные агрегаты и признаки</title>
+    </polyline>
+    <polyline points="1481,267 1481,447" fill="none" stroke="#456070" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)">
+      <title>Читает витрину по роли ClickHouse</title>
+    </polyline>
+    <polyline points="180,580 180,675" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Сверяет роль и цель обработки</title>
+    </polyline>
+    <polyline points="548,580 548,747 357,747" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Читает схему и правила</title>
+    </polyline>
+    <polyline points="936,762 827,762 827,793 357,793" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Читает правила публикации</title>
+    </polyline>
+    <polyline points="1075,790 1075,879" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Связывает загрузку с версией витрины</title>
+    </polyline>
+    <polyline points="56,547 42,547 42,973 936,973" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Записывает решение по карте или записи на прием</title>
+    </polyline>
+    <polyline points="708,580 708,907 936,907" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Пишет источник, загрузку и версию правил</title>
+    </polyline>
+    <polyline points="1560,580 1560,945 1220,945" fill="none" stroke="#386F62" stroke-width="2" stroke-linejoin="round" marker-end="url(#accent)">
+      <title>Передает таблицу, время и учетную запись</title>
+    </polyline>
+  </g>
+  <g id="elements" font-family="Arial, Helvetica, sans-serif">
+    <rect id="legacy" x="507" y="159" width="276" height="108" rx="12" fill="#F6F4F0" stroke="#A5957D" stroke-width="1.65" />
+    <text x="645.0" y="178.985" fill="#544A3B" font-size="13" font-weight="700" text-anchor="middle">[Система клиники]</text>
+    <text x="645.0" y="206.555" fill="#544A3B" font-size="19" font-weight="700" text-anchor="middle">Общий файловый сервер</text>
+    <text x="645.0" y="234.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Выгрузки бухгалтерии и склада.</text>
+    <text x="645.0" y="255.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">При переходе — журналы Excel.</text>
+    <rect id="analyst" x="1357" y="159" width="282" height="108" rx="12" fill="#EBF2F9" stroke="#7391AF" stroke-width="1.65" />
+    <text x="1498.0" y="178.485" fill="#153B58" font-size="13" font-weight="700" text-anchor="middle">[Человек]</text>
+    <text x="1498.0" y="206.9" fill="#153B58" font-size="20" font-weight="700" text-anchor="middle">Бизнес-аналитик</text>
+    <text x="1498.0" y="234.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Входит под именной</text>
+    <text x="1498.0" y="255.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">учетной записью ClickHouse.</text>
+    <rect id="app" x="56" y="447" width="301" height="133" rx="12" fill="#DDEFE9" stroke="#287364" stroke-width="2" />
+    <text x="206.5" y="468.485" fill="#174D46" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · Java]</text>
+    <text x="206.5" y="496.9" fill="#174D46" font-size="20" font-weight="700" text-anchor="middle">Клиническое приложение</text>
+    <text x="206.5" y="524.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Проверяет права на запись.</text>
+    <text x="206.5" y="545.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Хранит связь псевдонима</text>
+    <text x="206.5" y="566.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">с конкретным пациентом.</text>
+    <rect id="rules" x="56" y="675" width="301" height="140" rx="12" fill="#F1EDF7" stroke="#8B77A5" stroke-width="1.65" />
+    <text x="206.5" y="698.985" fill="#54426C" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · PostgreSQL]</text>
+    <text x="206.5" y="729.09" fill="#54426C" font-size="22" font-weight="700" text-anchor="middle">Каталог правил</text>
+    <text x="206.5" y="757.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Версии меток и схем, получатели,</text>
+    <text x="206.5" y="778.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">допустимые поля, цели</text>
+    <text x="206.5" y="799.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">и сроки хранения.</text>
+    <rect id="nifi" x="500" y="447" width="288" height="133" rx="12" fill="#EEF5F8" stroke="#60839A" stroke-width="1.65" />
+    <text x="644.0" y="468.485" fill="#234E64" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · Apache NiFi]</text>
+    <text x="644.0" y="496.9" fill="#234E64" font-size="20" font-weight="700" text-anchor="middle">Прием выгрузок</text>
+    <text x="644.0" y="524.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Проверяет шаблон, метки и цель.</text>
+    <text x="644.0" y="545.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Убирает прямые идентификаторы.</text>
+    <text x="644.0" y="566.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Спорные файлы изолирует.</text>
+    <rect id="lake" x="936" y="447" width="279" height="133" rx="12" fill="#EAF4EF" stroke="#5B897A" stroke-width="1.65" />
+    <text x="1075.5" y="467.985" fill="#244F44" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · объектное хранилище]</text>
+    <text x="1075.5" y="497.245" fill="#244F44" font-size="21" font-weight="700" text-anchor="middle">Озеро данных</text>
+    <text x="1075.5" y="524.675" fill="#203A4A" font-size="15" font-weight="400" text-anchor="middle">Закрытые наборы для расчета</text>
+    <text x="1075.5" y="545.675" fill="#203A4A" font-size="15" font-weight="400" text-anchor="middle">по разрешенным целям.</text>
+    <text x="1075.5" y="566.675" fill="#203A4A" font-size="15" font-weight="400" text-anchor="middle">Запись у загрузки, чтение у расчета.</text>
+    <rect id="job" x="936" y="664" width="279" height="126" rx="12" fill="#EEF5F8" stroke="#60839A" stroke-width="1.65" />
+    <text x="1075.5" y="681.485" fill="#234E64" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · Python]</text>
+    <text x="1075.5" y="710.745" fill="#234E64" font-size="21" font-weight="700" text-anchor="middle">Подготовка витрин</text>
+    <text x="1075.5" y="738.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Строит агрегаты и признаки.</text>
+    <text x="1075.5" y="759.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Проверяет редкие группы</text>
+    <text x="1075.5" y="780.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">и соседние срезы.</text>
+    <rect id="marts" x="1352" y="447" width="287" height="133" rx="12" fill="#EAF4EF" stroke="#5B897A" stroke-width="1.65" />
+    <text x="1495.5" y="467.985" fill="#244F44" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · ClickHouse]</text>
+    <text x="1495.5" y="497.245" fill="#244F44" font-size="21" font-weight="700" text-anchor="middle">Витрины BI и ML</text>
+    <text x="1495.5" y="525.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Роли дают SELECT на витрину.</text>
+    <text x="1495.5" y="546.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Для набора ML требуется</text>
+    <text x="1495.5" y="567.02" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">отдельное разрешение.</text>
+    <rect id="audit" x="936" y="879" width="284" height="123" rx="12" fill="#F1EDF7" stroke="#8B77A5" stroke-width="1.65" />
+    <text x="1078.0" y="895.485" fill="#54426C" font-size="13" font-weight="700" text-anchor="middle">[Контейнер · служба аудита]</text>
+    <text x="1078.0" y="923.9" fill="#54426C" font-size="20" font-weight="700" text-anchor="middle">Аудит и оповещения</text>
+    <text x="1078.0" y="951.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">Собирает решения о доступе</text>
+    <text x="1078.0" y="972.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">и сообщает дежурному</text>
+    <text x="1078.0" y="993.52" fill="#203A4A" font-size="16" font-weight="400" text-anchor="middle">о нарушениях правил.</text>
+  </g>
+  <g id="labels" font-family="Arial, Helvetica, sans-serif">
+    <text x="50" y="41.019999999999996" fill="#286E61" font-size="16" font-weight="700" text-anchor="start">Медикаменте  /  Целевое состояние · через год  /  C4 · уровень 2 · выбранные контейнеры</text>
+    <text x="48" y="90.075" fill="#203A4A" font-size="35" font-weight="700" text-anchor="start">Правила доступа и аналитический слой</text>
+    <text x="50" y="129.21" fill="#496272" font-size="18" font-weight="400" text-anchor="start">Детализация платформы со схемы «Платформа клиники через год». Здесь показаны проверки доступа и путь выгрузки до получателя.</text>
+    <text x="45" y="324.865" fill="#3C5E62" font-size="17" font-weight="700" text-anchor="start">Платформа клиники «Медикаменте»</text>
+    <text x="870" y="392.865" fill="#3C5E62" font-size="17" font-weight="700" text-anchor="start">Аналитический слой</text>
+    <text x="746.5" y="329.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Передает выгрузки</text>
+    <text x="746.5" y="348.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">из выделенной папки</text>
+    <text x="414.0" y="471.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Отдает поля</text>
+    <text x="414.0" y="490.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">по шаблону</text>
+    <text x="862.0" y="470.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Загружает набор</text>
+    <text x="862.0" y="489.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">с метками</text>
+    <text x="1138.5" y="613.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Выдает набор</text>
+    <text x="1138.5" y="632.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">задаче расчета</text>
+    <text x="1346.5" y="692.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Публикует проверенные</text>
+    <text x="1346.5" y="711.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">агрегаты и признаки</text>
+    <text x="1566.0" y="323.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Читает витрину</text>
+    <text x="1566.0" y="342.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">по роли ClickHouse</text>
+    <text x="265.5" y="615.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Сверяет роль</text>
+    <text x="265.5" y="634.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">и цель обработки</text>
+    <text x="413.5" y="714.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Читает схему</text>
+    <text x="413.5" y="733.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">и правила</text>
+    <text x="482.5" y="776.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Читает правила публикации</text>
+    <text x="1166.5" y="839.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Связывает загрузку</text>
+    <text x="1166.5" y="858.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">с версией витрины</text>
+    <text x="598.0" y="958.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Записывает решение по карте или записи на прием</text>
+    <text x="821.0" y="875.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Пишет источник, загрузку</text>
+    <text x="821.0" y="894.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">и версию правил</text>
+    <text x="1386.5" y="914.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">Передает таблицу, время</text>
+    <text x="1386.5" y="933.675" fill="#354F5E" font-size="15" font-weight="400" text-anchor="middle">и учетную запись</text>
+    <text x="50" y="1080.365" fill="#286C60" font-size="17" font-weight="700" text-anchor="start">Граница доступа</text>
+    <text x="50" y="1108.52" fill="#496272" font-size="16" font-weight="400" text-anchor="start">Владелец согласует цель, витрину и срок. Администратор назначает роль в ClickHouse. Бизнес-аналитик читает только согласованную витрину.</text>
+  </g>
+</svg>
