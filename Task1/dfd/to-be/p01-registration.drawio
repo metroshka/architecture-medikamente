@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" compressed="false">
+  <diagram id="p01-protection" name="P01. Меры защиты">
+    <mxGraphModel dx="1210" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1087" math="0" shadow="0" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="context" parent="1" vertex="1" value="Медикаменте  /  P01  /  Сверху — исходный поток, снизу — предлагаемые меры по номерам операций" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=15;fontColor=#1E655E;fontStyle=1;">
+          <mxGeometry x="32" y="20" width="1140" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="title" parent="1" vertex="1" value="Регистрация пациента и оформление договора" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=32;fontColor=#193548;fontStyle=1;">
+          <mxGeometry x="32" y="49" width="1140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rule-head" parent="1" vertex="1" value="" style="strokeColor=none;fillColor=#CFDADD;connectable=0;">
+          <mxGeometry x="32" y="109" width="1136" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="column-actor" parent="1" vertex="1" value="Участник" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=17;fontColor=#425B6B;fontStyle=1;">
+          <mxGeometry x="32" y="122" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="column-process" parent="1" vertex="1" value="Операции ресепшена" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=17;fontColor=#425B6B;fontStyle=1;">
+          <mxGeometry x="446" y="122" width="272" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="column-target" parent="1" vertex="1" value="Хранилища и получатель" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=17;fontColor=#425B6B;fontStyle=1;">
+          <mxGeometry x="935" y="122" width="232" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="patient-in" parent="1" vertex="1" value="Пациент&#10;E1" style="rounded=0;html=0;fontFamily=Arial;shadow=0;fillColor=#F4F6F8;strokeColor=#60788A;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+          <mxGeometry x="32" y="320" width="154" height="76" as="geometry" />
+        </mxCell>
+        <object id="register" label="P01.1&#10;Зарегистрировать пациента" tooltip="Перед вводом сверить ФИО и дату рождения. Однофамильцев различать по внутреннему номеру. В таблицу ресепшена заносить данные для регистрации и связи.">
+          <mxCell parent="1" vertex="1" style="rounded=1;arcSize=22;html=0;fontFamily=Arial;shadow=0;fillColor=#EAF2FA;strokeColor=#416989;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+            <mxGeometry x="446" y="180" width="272" height="78" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="file" label="P01.2&#10;Сохранить файл пациента" tooltip="Медицинский скан хранить в защищенной папке пациента под его внутренним номером. Доступ к скану предоставлять только назначенному врачу или согласованному заместителю. Таблицу соответствия номера и ФИО закрыть отдельными правами.">
+          <mxCell parent="1" vertex="1" style="rounded=1;arcSize=22;html=0;fontFamily=Arial;shadow=0;fillColor=#EAF2FA;strokeColor=#416989;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+            <mxGeometry x="446" y="319" width="272" height="78" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="contract" label="P01.3&#10;Оформить договор" tooltip="Сверить сторону договора с записью пациента. Электронный экземпляр хранить в папке договоров. При выдаче проверить получателя и передать только его экземпляр.">
+          <mxCell parent="1" vertex="1" style="rounded=1;arcSize=22;html=0;fontFamily=Arial;shadow=0;fillColor=#EAF2FA;strokeColor=#416989;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+            <mxGeometry x="446" y="458" width="272" height="78" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="patients-xls" parent="1" vertex="1" value="Patients&#10;Список пациентов в Excel" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=12;html=0;fontFamily=Arial;shadow=0;fillColor=#E6F4EF;strokeColor=#277467;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+          <mxGeometry x="935" y="170" width="232" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="patient-folder" parent="1" vertex="1" value="Папка пациента&#10;Pacient1-FIO-BD · D12" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=12;html=0;fontFamily=Arial;shadow=0;fillColor=#E6F4EF;strokeColor=#277467;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+          <mxGeometry x="935" y="309" width="232" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="patient-out" parent="1" vertex="1" value="Пациент&#10;E1" style="rounded=0;html=0;fontFamily=Arial;shadow=0;fillColor=#F4F6F8;strokeColor=#60788A;strokeWidth=2;fontColor=#193548;fontSize=17;fontStyle=1;align=center;verticalAlign=middle;spacing=4;">
+          <mxGeometry x="935" y="459" width="232" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-identity" value="Ф. И. О., дата рождения,&#10;телефон, эл. почта · D01, D02" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=0.5;exitY=0;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#385A72;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#385A72;labelBackgroundColor=none;align=center;verticalAlign=middle;" edge="1" parent="1" source="patient-in" target="register">
+          <mxGeometry relative="1" x="0.413" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="219" />
+            </Array>
+            <mxPoint x="0" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flow-row" value="Строка списка пациентов" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#385A72;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#385A72;labelBackgroundColor=none;align=center;verticalAlign=middle;" edge="1" parent="1" source="register" target="patients-xls">
+          <mxGeometry relative="1" x="0" as="geometry">
+            <mxPoint x="0" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flow-document-in" value="Файлы пациента&#10;(источник уточняется)" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#8B591B;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#8B591B;labelBackgroundColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="patient-in" target="file">
+          <mxGeometry relative="1" x="0" as="geometry">
+            <mxPoint x="0" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flow-document-out" value="Файл с данными пациента" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#385A72;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#385A72;labelBackgroundColor=none;align=center;verticalAlign=middle;" edge="1" parent="1" source="file" target="patient-folder">
+          <mxGeometry relative="1" x="0" as="geometry">
+            <mxPoint x="0" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flow-contract-in" value="Данные стороны договора&#10;(состав уточняется)" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#8B591B;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#8B591B;labelBackgroundColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="patient-in" target="contract">
+          <mxGeometry relative="1" x="0.413" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="497" />
+            </Array>
+            <mxPoint x="0" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flow-contract-out" value="Экземпляр договора · D06&#10;(выдачу уточнить)" style="edgeStyle=none;rounded=0;html=0;orthogonalLoop=0;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;strokeColor=#8B591B;strokeWidth=2;endArrow=block;endFill=1;endSize=8;fontFamily=Arial;fontSize=15;fontColor=#8B591B;labelBackgroundColor=none;align=center;verticalAlign=middle;dashed=1;dashPattern=6 4;" edge="1" parent="1" source="contract" target="patient-out">
+          <mxGeometry relative="1" x="0" as="geometry">
+            <mxPoint x="0" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rule-legend" parent="1" vertex="1" value="" style="strokeColor=none;fillColor=#CFDADD;connectable=0;">
+          <mxGeometry x="32" y="561" width="1136" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="key-fact-line" value="" parent="1" edge="1" style="edgeStyle=none;html=0;endArrow=block;endSize=7;endFill=1;strokeColor=#385A72;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="33" y="586" as="sourcePoint" />
+            <mxPoint x="79" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="key-fact" parent="1" vertex="1" value="Подтвержденный поток" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=15;fontColor=#193548;fontStyle=0;">
+          <mxGeometry x="89" y="575" width="230" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="key-guess-line" value="" parent="1" edge="1" style="edgeStyle=none;html=0;endArrow=block;endSize=7;endFill=1;strokeColor=#8B591B;strokeWidth=2;dashed=1;dashPattern=6 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342" y="586" as="sourcePoint" />
+            <mxPoint x="388" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="key-guess" parent="1" vertex="1" value="Допущение о передаче" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=15;fontColor=#193548;fontStyle=0;">
+          <mxGeometry x="398" y="575" width="220" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="key-id" parent="1" vertex="1" value="D01–D12 — категории реестра данных" style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=15;fontColor=#425B6B;fontStyle=0;">
+          <mxGeometry x="735" y="575" width="430" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="form-head" parent="1" vertex="1" value="Расширенная анкета" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=17;fontColor=#193548;fontStyle=1;">
+          <mxGeometry x="32" y="613" width="547" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="form-body" parent="1" vertex="1" value="Пациент может указать адрес, место работы или учебы (D02)&#10;и хронические заболевания (D04). Уточнить, кто получает анкету&#10;и в каком виде ее сохраняет." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=16;fontColor=#425B6B;fontStyle=0;">
+          <mxGeometry x="32" y="641" width="585" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="store-head" parent="1" vertex="1" value="Хранение данных" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=17;fontColor=#193548;fontStyle=1;">
+          <mxGeometry x="648" y="613" width="520" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="store-body" parent="1" vertex="1" value="Сейчас список Patients и папки пациентов лежат на общем диске.&#10;В имени папки видны Ф. И. О. и дата рождения. Состав колонок&#10;Patients, формат и место хранения договора нужно уточнить." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;spacingLeft=0;spacingRight=0;html=0;fontFamily=Arial;shadow=0;fontSize=16;fontColor=#425B6B;fontStyle=0;">
+          <mxGeometry x="648" y="641" width="523" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-rule" value="" style="rounded=0;strokeColor=none;fillColor=#9ABEB4;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="32" y="720" width="1136" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-heading" value="Предлагаемые меры по этапам" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=24;fontStyle=1;fontColor=#155B51;whiteSpace=nowrap;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="32" y="727" width="1136" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-1" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F0F7F4;strokeColor=#AAC7BE;strokeWidth=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="32" y="772" width="559" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-1-title" value="P01.1  ·  Регистрация" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontStyle=1;fontColor=#155B51;whiteSpace=nowrap;" vertex="1" parent="protection-1" connectable="0">
+          <mxGeometry x="16" y="6" width="527" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-1-line-1" value="Перед вводом сверить ФИО и дату рождения. Однофамильцев" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-1" connectable="0">
+          <mxGeometry x="16" y="34" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-1-line-2" value="различать по внутреннему номеру. В таблицу ресепшена" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-1" connectable="0">
+          <mxGeometry x="16" y="57" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-1-line-3" value="заносить данные для регистрации и связи." style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-1" connectable="0">
+          <mxGeometry x="16" y="80" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F0F7F4;strokeColor=#AAC7BE;strokeWidth=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="609" y="772" width="559" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2-title" value="P01.2  ·  Файл пациента" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontStyle=1;fontColor=#155B51;whiteSpace=nowrap;" vertex="1" parent="protection-2" connectable="0">
+          <mxGeometry x="16" y="6" width="527" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2-line-1" value="Медицинский скан хранить в защищенной папке пациента" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-2" connectable="0">
+          <mxGeometry x="16" y="34" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2-line-2" value="под его внутренним номером. Доступ к скану предоставлять" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-2" connectable="0">
+          <mxGeometry x="16" y="57" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2-line-3" value="только назначенному врачу или согласованному заместителю." style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-2" connectable="0">
+          <mxGeometry x="16" y="80" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-2-line-4" value="Таблицу соответствия номера и ФИО закрыть отдельными правами." style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-2" connectable="0">
+          <mxGeometry x="16" y="103" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-3" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F0F7F4;strokeColor=#AAC7BE;strokeWidth=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="32" y="934" width="559" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-3-title" value="P01.3  ·  Договор" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontStyle=1;fontColor=#155B51;whiteSpace=nowrap;" vertex="1" parent="protection-3" connectable="0">
+          <mxGeometry x="16" y="6" width="527" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-3-line-1" value="Сверить сторону договора с записью пациента. Электронный" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-3" connectable="0">
+          <mxGeometry x="16" y="34" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-3-line-2" value="экземпляр хранить в папке договоров. При выдаче" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-3" connectable="0">
+          <mxGeometry x="16" y="57" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-3-line-3" value="проверить получателя и передать только его экземпляр." style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-3" connectable="0">
+          <mxGeometry x="16" y="80" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-4" value="" style="rounded=1;arcSize=8;html=0;fillColor=#F0F7F4;strokeColor=#AAC7BE;strokeWidth=1;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="609" y="934" width="559" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-4-title" value="Общий диск" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=18;fontStyle=1;fontColor=#155B51;whiteSpace=nowrap;" vertex="1" parent="protection-4" connectable="0">
+          <mxGeometry x="16" y="6" width="527" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-4-line-1" value="Зашифровать том и копии. Ресепшену дать доступ к" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-4" connectable="0">
+          <mxGeometry x="16" y="34" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-4-line-2" value="регистрационным данным и договорам. Просмотр и изменение" style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-4" connectable="0">
+          <mxGeometry x="16" y="57" width="527" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="protection-4-line-3" value="документов записывать в журнал по номеру файла." style="text;html=0;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacing=0;fontFamily=Arial;fontSize=16;fontStyle=0;fontColor=#243F4A;whiteSpace=nowrap;" vertex="1" parent="protection-4" connectable="0">
+          <mxGeometry x="16" y="80" width="527" height="22" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
